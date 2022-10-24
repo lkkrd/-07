@@ -1,6 +1,4 @@
-const colors = ["green", "blue", "#8a00c2", "#a000c8", "#b100cd"];
 const btn = document.getElementById("button");
-const color = document.querySelector(".color");
 const root = document.querySelector(":root");
 
 btn.addEventListener("click", function () {
